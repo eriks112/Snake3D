@@ -1,0 +1,5 @@
+﻿D:\Depelopment\02.Projects\3D Engine\D11\DirectX 11 Engine VS2017\Snake3D\pixelshader.hlsl(28,12-77): warning X3206: implicit truncation of vector type
+D:\Depelopment\02.Projects\3D Engine\D11\DirectX 11 Engine VS2017\Snake3D\pixelshader.hlsl(26,29-39): error X4502: invalid vs_2_0 output semantic 'SV_TARGET'
+D:\Depelopment\02.Projects\3D Engine\D11\DirectX 11 Engine VS2017\Snake3D\pixelshader.hlsl(20,23-38): error X4502: invalid vs_2_0 input semantic 'WORLD_POSITION'
+  
+  compilation failed; no code produced
